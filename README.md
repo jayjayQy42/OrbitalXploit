@@ -10,7 +10,8 @@ my website [My Website](https://webtinq.nl/getorbitalx/mainpage.html)
 
 ## Installation 🌏
 
-install make sure you have antivirus disabled as it may delete files
+install make sure you have antivirus disabled as it may delete files(if it doesnt open and fixer.exe is openend to and it still doesnt work right click and run as adminstrator then it should work
+if not contact me via github thanks!
 
 ```bash
 install my project by going to realease tab 
